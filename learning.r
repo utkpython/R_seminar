@@ -24,3 +24,13 @@ my_number + 1000
 my_number <- 7  # after all, 7 is lucky
 
 
+
+
+
+# it is also fun to ask R questions
+# for example, what is the sum of integers between 1 and 100?
+# here's one way to do this
+
+sum(1:100)  # read it as: "give me the sum of the numbers 1 to 100
+
+
